@@ -7,5 +7,5 @@
 - 💬 Ask me about React, Node, Express, GraphQL, Apollo  
 - 📫 How to reach me: oreillyross@gmail.com
 - 😄 Pronouns: He/Him Dad Serious Guy
-- ⚡ Fun fact: :)  
+  
 
