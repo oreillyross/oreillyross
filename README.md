@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Open source projects related to NLP using Javascript
 - 💬 Ask me about React, Node, Express, GraphQL, Apollo  
 - 📫 How to reach me: oreillyross@gmail.com
-- 😄 Pronouns: He/Him Dad Serious Guy
+
   
 
