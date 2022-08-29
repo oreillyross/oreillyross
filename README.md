@@ -8,5 +8,5 @@ I’m currently learning about the serverless landscape :tada:
 
 💬 Ask me about NextJS, React, Typescript, Python, GraphQL, HTML, Tailwind and CSS in general.   
 
-📫 How to reach me: oreillyross at gmail.com
+
 
