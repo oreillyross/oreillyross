@@ -1,12 +1,33 @@
-### Hi there 👋
+### hey, i'm ross 👋
 
-🔭 Software engineer, with a passion for lifelong learning. Currently proficient in React, Typescript, Javascript, HTML and CSS. I know python well enough to build Flask apis and moderately complex Machine learning applications using scikit-learn, Pandas, and numpy. 
+I build **agentic AI SaaS applications** in TypeScript. Full-stack solopreneur shipping MVPs iteratively—spec-driven development, not over-planning.
 
-:octocat: I build apps, and have a number of ideas, to name a few such as a Pantry app (ok so who doesnt want to build their favourite recipe app), and have some great ideas to start Horizon, a crowd-sourced application to investigate the future.
+#### what i'm working on
 
-I’m learning about how to apply machine learning models, mainly supervised learning to automate some of my apps :tada:
+🎯 **Horizon Lite** — Geopolitical signal tracking + content curation. Tracking how AI reshapes international relations in real-time.
 
-💬 Ask me about NextJS, React, Typescript, Python, GraphQL, HTML, Tailwind and CSS.   
+🥫 **Pantry Management** — Vision-powered expiry date OCR + ingredient identification. Cloudinary + Claude API pipeline for visual understanding at scale.
 
+(Verity is brewing in the background.)
 
+#### my stack
 
+**Frontend:** React + Vite, shadcn/ui, Tailwind  
+**Backend:** Express, tRPC, PostgreSQL via Drizzle ORM  
+**AI/ML:** Claude API (vision, text), agentic patterns, prompt engineering  
+**Infrastructure:** TypeScript everywhere (one language, full-stack velocity)
+
+#### what i treat as a collaborative coworker
+
+- **Claude** — iterative development partner, architectural brainstorming, code review
+- **Agentic systems** — building the "harness engineering" layer as differentiation
+
+I follow the AI space closely—AINews (Latent Space), The Neuron, TLDR—and I'm studying agentic patterns in Matt Pocock's AI Hero course.
+
+#### let's talk about
+
+Agentic AI architecture, full-stack TypeScript SaaS, iterative MVP workflows, prompt engineering, vision APIs, geopolitical intelligence, or why your pantry app needs AI.
+
+---
+
+🔗 Always shipping. Sometimes sleeping. Never over-planning.
