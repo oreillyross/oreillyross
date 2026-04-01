@@ -2,7 +2,7 @@
 
 I build **agentic AI SaaS applications** in TypeScript. Full-stack solopreneur shipping MVPs iteratively—spec-driven development, not over-planning.
 
-#### what i'm working on
+#### what I am working on
 
 🎯 **Horizon Lite** — Geopolitical signal tracking + content curation. Tracking how AI reshapes international relations in real-time.
 
@@ -10,19 +10,19 @@ I build **agentic AI SaaS applications** in TypeScript. Full-stack solopreneur s
 
 (Verity is brewing in the background.)
 
-#### my stack
+#### My stack
 
 **Frontend:** React + Vite, shadcn/ui, Tailwind  
 **Backend:** Express, tRPC, PostgreSQL via Drizzle ORM  
 **AI/ML:** Claude API (vision, text), agentic patterns, prompt engineering  
 **Infrastructure:** TypeScript everywhere (one language, full-stack velocity)
 
-#### what i treat as a collaborative coworker
+#### what I treat as a collaborative coworker
 
 - **Claude** — iterative development partner, architectural brainstorming, code review
 - **Agentic systems** — building the "harness engineering" layer as differentiation
 
-I follow the AI space closely—AINews (Latent Space), The Neuron, TLDR—and I'm studying agentic patterns in Matt Pocock's AI Hero course.
+I follow the AI space closely—AINews (Latent Space), The Neuron, TLDR—and I'm studying agentic patterns through Matt Pocock and Jack Herrington content on youtube.
 
 #### let's talk about
 
