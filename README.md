@@ -1,4 +1,4 @@
-### hey, i'm ross 👋
+### hey, I'm Ross 👋
 
 I build **agentic AI SaaS applications** in TypeScript. Full-stack solopreneur shipping MVPs iteratively—spec-driven development, not over-planning.
 
